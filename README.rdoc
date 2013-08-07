@@ -1,4 +1,4 @@
-== The Root Forum
+= The Root Forum
 
 No categories
 
@@ -31,7 +31,8 @@ system should be smart enough to know who started a "thread" and who is the late
 
 threads have thumbnails based on first comment's included pictures
 
-Users have:
+== User Model
+
     email
     password
     real name
@@ -43,12 +44,13 @@ Users have:
     avatar
     active?
 
-Member list
+== Member list
+
     alphabetical by name
     alpha by email
     most recent activity? (can help filter out inactive users)
 
-Invite System
+== Invite System
     30 votes in 30 days gets the user invited
     invites have an inactive user attached that the inviter created, and a post attached with the #invite tag
     when it's upvoted/liked 30 times within 30 days, that triggers the invite e-mail to go out
@@ -58,7 +60,8 @@ Invite System
 
 Private messages could be just comments? tagged with a username? and maybe a #private?
 
-Chat. I totally want chat built into the site
+== Chat.
+I totally want chat built into the site
     if I make the forum real time in terms of loading comments as they are posted via ajax, then maybe there could be no
     difference between "threads" and the chat. Maybe chat could be autotagged with the date?
 

@@ -64,25 +64,25 @@ Chat. I totally want chat built into the site
 
 == Todo
 
-    *   Implement Invite System
-    *   Implement Private Messages
-    *   Allow users to save their own favorite tags to the navigation
+*   Implement Invite System
+*   Implement Private Messages
+*   Allow users to save their own favorite tags to the navigation
 
-    *   Figure out "thread" interface
-    *   Mark Threads "Unread"
-    *   Enable thumbnails for comments with pictures when the comment is starting a thread
+*   Figure out "thread" interface
+*   Mark Threads "Unread"
+*   Enable thumbnails for comments with pictures when the comment is starting a thread
 
-    *   Implement Search
+*   Implement Search
 
-    *   Make the design super slick
+*   Make the design super slick
 
-    *   Maybe implement Chat
-    *   Track who added which tags to which comments? Is this even worthwhile?
-    *   Cache images that are used in img tags
-    *   Live Preview, or at least Preview
+*   Maybe implement Chat
+*   Track who added which tags to which comments? Is this even worthwhile?
+*   Cache images that are used in img tags
+*   Live Preview, or at least Preview
 
-    *   Fix thumbnail resize animation
-    *   Implement all BBCode tags and remove unused tags
-    *   Fix Nested Quotes (Fix treetop Grammar)
-    *   Make Delete and Edit Respect permissions on the server side
-    *   View Member Profile
+*   Fix thumbnail resize animation
+*   Implement all BBCode tags and remove unused tags
+*   Fix Nested Quotes (Fix treetop Grammar)
+*   Make Delete and Edit Respect permissions on the server side
+*   View Member Profile
